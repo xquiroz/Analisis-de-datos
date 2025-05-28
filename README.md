@@ -29,4 +29,4 @@ Este repositorio contiene mis proyectos de **Analísis de datos**.
 - Python
 - Excel
 - Access
-- Word (PDF, que contienen explicacion de los proyectos )
+- PowerPoint (PDF, que contienen explicacion de los proyectos )
